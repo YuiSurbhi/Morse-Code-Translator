@@ -61,6 +61,6 @@ To use this tool, you need Python installed on your computer. Follow these steps
 ## Contributing 🤝
 We welcome contributions! If you have suggestions, improvements, or fixes, please open an issue or submit a pull request.
 
----
+##
 
 Enjoy translating Morse code! 😊🚀
