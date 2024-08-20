@@ -18,7 +18,7 @@ def translate_to_morse(text):
     Translate a given text into morse code
     
     Args:
-    text (str): The inp[ut text to be translated.
+    text (str): The input text to be translated.
     
     Returns:
     str: The translated morse code.
