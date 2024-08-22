@@ -11,7 +11,7 @@ Welcome to the Morse Code Translator project! This tool allows you to easily tra
 ## Installation 💻
 
 To use this tool, you need Python installed on your computer. Follow these steps to get started:<br>
-1. **Clone the Repository:<br>
+1. **Clone the Repository:**<br>
 
        https://github.com/YuiSurbhi/Morse-Code-Translator.git
 
@@ -19,7 +19,7 @@ To use this tool, you need Python installed on your computer. Follow these steps
 
         cd Morse-Code-Translator
 
-3. **Run the Program:<br>
+3. **Run the Program:**<br>
 
        python main.py
 
